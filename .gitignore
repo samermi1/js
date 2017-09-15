@@ -1,0 +1,21 @@
+# logs
+
+*.log*
+
+# project dependencies
+
+node_modules
+
+# OSX folder attributes
+
+.DS_Store
+
+# temporary files
+
+*.tmp
+
+*~3
+
+# es5 code
+dist/
+public/dist/
